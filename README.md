@@ -36,11 +36,5 @@ The main window displays a welcoming message "Welcome to Finance Tracker!" and f
 ## Additional Tips
 - **Error Handling**: If you enter invalid data (like text instead of numbers), the app will prompt you to enter a valid number.
 
-## Troubleshooting
-If you encounter issues, such as the app not starting or transactions not saving, check if the application files are intact, especially 'transactions.txt'. Sometimes, simply closing and reopening the app can resolve minor issues.
-
-## For Further Assistance
-Should you need more help or have feedback, don't hesitate to contact the support team.
-
 Enjoy managing your finances more efficiently with the Finance Tracker!
 """
