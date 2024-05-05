@@ -37,4 +37,3 @@ The main window displays a welcoming message "Welcome to Finance Tracker!" and f
 - **Error Handling**: If you enter invalid data (like text instead of numbers), the app will prompt you to enter a valid number.
 
 Enjoy managing your finances more efficiently with the Finance Tracker!
-"""
