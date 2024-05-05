@@ -7,7 +7,7 @@ Welcome to the Finance Tracker Application! This guide will help you navigate an
 ## Getting Started
 
 ### Opening the Application
-When you open the Finance Tracker, you'll be greeted by the main window which serves as your central hub for all operations within the app.
+When you open the Finance Tracker, you'll be greeted by the main window which serves as your central menu for all functions within the app.
 
 ## Main Menu
 
