@@ -32,6 +32,7 @@ The main window displays a welcoming message "Welcome to Finance Tracker!" and f
 ## Managing Data
 - **Loading Transactions**: Automatically loads your previously saved transactions when you start the app.
 - **Saving Transactions**: Automatically saves your transactions to a file each time you add a new one.
+- **Create new Transactions**: Delete the transactions.txt file for your data to be reset.
 
 ## Additional Tips
 - **Error Handling**: If you enter invalid data (like text instead of numbers), the app will prompt you to enter a valid number.
