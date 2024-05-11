@@ -15,11 +15,17 @@ The main window displays a welcoming message "Welcome to Finance Tracker!" and f
 
 ### 1. Add Transaction
 - **Purpose**: Use this button to enter new financial transactions, such as income or expenses.
-- **How to Use**: Click this button, and a new window will open where you can enter the amount of the transaction. Enter positive numbers for income and negative for expenses. Click 'Submit' to record the transaction.
+- **How to Use**: Click this button, and a new window will open where you can:
+Enter the date of the transaction in the format YYYY-MM-DD.
+Select a category for the transaction from a dropdown menu (e.g., Food, Rent, Salary).
+Enter the amount of the transaction. Input positive numbers for income and negative numbers for expenses.
+Click 'Submit' to record the transaction.
 
 ### 2. View Reports
-- **Purpose**: This feature lets you view a summary of all recorded transactions.
-- **How to Use**: Click this button to open a new window displaying all your transactions along with the total balance. It provides a snapshot of your financial activity.
+- **Purpose**: This feature lets you view a summary of all recorded transactions and filter these transactions based on type.
+- **How to Use**: Click this button to open a new window displaying:
+All your transactions along with the total balance.
+Filter options to view either all transactions, only income, or only expenses, enhancing your ability to analyze financial activity.
 
 ### 3. Settings
 - **Purpose**: Customize application settings here.
